@@ -11,14 +11,14 @@
 
 ---
 
-### 🕵️ Forensics – USB Keyboard Capture Analysis
+### 🕵️ Forensics – Odyssey Finals
 **Odyssey CTF Finals 2025**
 
 | Challenge Info | Details |
 | :--- | :--- |
 | **Category** | Forensics |
-| **Challenge Name** | USB Keyboard Capture Analysis |
-| **File** | `traffic.pcap` / `saved_231.pcapng` |
+| **Challenge Name** | idk the challenge name (i forgot) |
+| **File** | `traffic.pcap` |
 | **Flag Format** | `AKASEC{...}` |
 
 #### 📝 Challenge Overview
@@ -31,7 +31,7 @@ The challenge involved analyzing a suspicious PCAP file containing USB traffic f
 
 We started by examining the PCAP using `tshark` to understand the protocol hierarchy.
 
-tshark -r saved_231.pcapng -q -z io,phs
+tshark -r traffic.pcap -q -z io,phs
 
 text
 
@@ -48,7 +48,7 @@ This immediately indicated **USB keyboard traffic capture**, as HID devices incl
 
 An initial attempt to extract data using the standard `usb.capdata` field failed:
 
-tshark -r saved_231.pcapng -Y 'usb.capdata' -T fields -e usb.capdata > usb_data.txt
+tshark -r traffic.pcap -Y 'usb.capdata' -T fields -e usb.capdata > usb_data.txt
 
 text
 
@@ -62,7 +62,7 @@ text
 
 For USB keyboard captures, keystrokes are stored in the `usbhid.data` field, not `usb.capdata`. The correct extraction command is:
 
-tshark -r saved_231.pcapng -Y 'usbhid.data' -T fields -e usbhid.data > usbhid_keys.txt
+tshark -r traffic.pcap -Y 'usbhid.data' -T fields -e usbhid.data > usbhid_keys.txt
 
 text
 
