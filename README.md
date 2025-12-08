@@ -160,9 +160,6 @@ Applying the capslock and backspace operations:
 
 AKASEC{w1r35h4rk_1s_k1nd4_l1k3_a_5n17ch}
 
-text
-
-*(In leetspeak: "wireshark is kinda like a snitch")*
 
 ---
 
