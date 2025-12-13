@@ -14,7 +14,7 @@
 ### 🕵️ Forensics – Odyssey Finals
 **Odyssey CTF Finals 2025**
 
-**Challenge 1:** [USB Keyboard Capture Analysis - idk the challenge name (i forgot)]((https://medium.com/@ThEsPhYnX/tshark-r-traffic-pcap-q-z-io-phs-4e795d8f6a08))
+**Challenge 1:** [USB Keyboard Capture Analysis - idk the challenge name (i forgot)](https://medium.com/@ThEsPhYnX/tshark-r-traffic-pcap-q-z-io-phs-4e795d8f6a08)
 
 ---
 
