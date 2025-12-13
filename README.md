@@ -16,6 +16,8 @@
 
 **Challenge 1:** [USB Keyboard Capture Analysis - idk the challenge name (i forgot)](https://medium.com/@ThEsPhYnX/tshark-r-traffic-pcap-q-z-io-phs-4e795d8f6a08)
 
+**Challenge 2:** [Router Spy — Network Forensics Challenge IDAR INWI](https://medium.com/@ThEsPhYnX/ctf-writeup-router-spy-network-forensics-challenge-6926458b9635)
+
 ---
 
 **Author:** Sphynx  
