@@ -14,13 +14,19 @@
 ### 🕵️ Forensics – Odyssey Finals
 **Odyssey CTF Finals 2025**
 
-**Challenge 1:** [USB Keyboard Capture Analysis - idk the challenge name (i forgot)](https://medium.com/@ThEsPhYnX/tshark-r-traffic-pcap-q-z-io-phs-4e795d8f6a08)
+> [!IMPORTANT]
+> **About Odyssey:** 🏆 It is the **biggest CTF event in Morocco**, featuring high-stakes competition, massive prizes 💰, and famous speakers 🎤!
 
-**Challenge 2:** [Router Spy — Network Forensics Challenge IDAR INWI](https://medium.com/@ThEsPhYnX/ctf-writeup-router-spy-network-forensics-challenge-6926458b9635)
+**Challenge 1:** ⌨️ [USB Keyboard Capture Analysis - idk the challenge name (i forgot)](https://medium.com/@ThEsPhYnX/tshark-r-traffic-pcap-q-z-io-phs-4e795d8f6a08)
 
-**Challenge 3:** [Chouftv — Odyssey Finals 2025 Writeup](https://medium.com/@ThEsPhYnX/akasec-odyssey-finals-2025-chouftv-writeup-658d05a814d4)
+**Challenge 2:** 🛰️ [Router Spy — Network Forensics Challenge IDAR INWI](https://medium.com/@ThEsPhYnX/ctf-writeup-router-spy-network-forensics-challenge-6926458b9635)
+
+**Challenge 3:** 📺 [Chouftv — Odyssey Finals 2025 Writeup](https://medium.com/@ThEsPhYnX/akasec-odyssey-finals-2025-chouftv-writeup-658d05a814d4)
 
 ---
 
-**Author:** "ismail larhrib" | Sphynx  
-**CTF readings:** Odyssey CTF Finals 2025, TryHackMe SOC Challenges
+### 👤 Profile
+* **Author:** `ismail larhrib` | **Sphynx** 🐾
+* **CTF Readings:** 🚩 Odyssey CTF Finals 2025, TryHackMe SOC Challenges
+
+---
