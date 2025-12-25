@@ -22,5 +22,5 @@
 
 ---
 
-**Author:** Sphynx "ismail larhrib"
-**CTF Readings:** Odyssey CTF Finals 2025, TryHackMe SOC Challenges  
+**Author:** "ismail larhrib" | Sphynx  
+**CTF readings:** Odyssey CTF Finals 2025, TryHackMe SOC Challenges
