@@ -12,7 +12,7 @@
 ---
 
 ### 🕵️ Forensics – Odyssey Finals
-**Clearing Odyssey CTF Finals 2025 Forensics challenges, Here's the writeups**
+**After Clearing Odyssey CTF Finals 2025 Forensics challenges, Here's the writeups**
 
 > [!IMPORTANT]
 > **About Odyssey:** 🏆 It is the **biggest CTF event in Morocco**, holding big prizes 💰 and featuring famous speakers 🎤!
