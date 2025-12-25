@@ -18,8 +18,9 @@
 
 **Challenge 2:** [Router Spy — Network Forensics Challenge IDAR INWI](https://medium.com/@ThEsPhYnX/ctf-writeup-router-spy-network-forensics-challenge-6926458b9635)
 
+**Challenge 3:** [Chouftv — Odyssey Finals 2025 Writeup](https://medium.com/@ThEsPhYnX/akasec-odyssey-finals-2025-chouftv-writeup-658d05a814d4)
+
 ---
 
-**Author:** Sphynx  
-**CTF Participations:** Odyssey CTF Finals 2025, TryHackMe SOC Challenges  
-**Date:** December 2025
+**Author:** Sphynx "ismail larhrib"
+**CTF Readings:** Odyssey CTF Finals 2025, TryHackMe SOC Challenges  
