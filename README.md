@@ -1,4 +1,4 @@
-# 🛡️ SeC_sHiT
+# 🛡️ Blue-Team Sec-projects
 
 ---
 
