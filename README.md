@@ -17,10 +17,7 @@ Small project created to understand how keyloggers work in order to improve dete
 
 ### 🔍 SOC – Analyzing Malicious Traffic
 **Carnage Room Breakdown**
-
 [Read the full breakdown on Medium](https://medium.com/@larhribismail87/soc-analyzing-malicious-traffic-carnage-room-breakdown-37e88de9c304a)
-
----
 
 ### 🕵️ Forensics – Odyssey Finals
 **After Clearing Odyssey CTF Finals 2025 Forensics challenges, Here's the writeups**
