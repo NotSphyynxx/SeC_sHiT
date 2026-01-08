@@ -2,12 +2,23 @@
 
 ---
 
+## 🧪 Projects
+
+### ⌨️ Keylogger
+**Educational Security Project**
+
+🔗 https://github.com/NotSphyynxx/Keylogger
+
+Small project created to understand how keyloggers work in order to improve detection, analysis, and defensive awareness.
+
+---
+
 ## 📚 Write-ups
 
 ### 🔍 SOC – Analyzing Malicious Traffic
 **Carnage Room Breakdown**
 
-[Read the full breakdown on Medium](https://medium.com/@larhribismail87/soc-analyzing-malicious-traffic-carnage-room-breakdown-37e8de9c304a)
+[Read the full breakdown on Medium](https://medium.com/@larhribismail87/soc-analyzing-malicious-traffic-carnage-room-breakdown-37e88de9c304a)
 
 ---
 
@@ -25,6 +36,6 @@
 
 ---
 
-### 👤 Profile
+## 👤 Profile
 * **Author:** `ismail larhrib` | **Sphynx** 🐾
 * **CTF Readings:** 🚩 Odyssey CTF Finals 2025, TryHackMe SOC Challenges
