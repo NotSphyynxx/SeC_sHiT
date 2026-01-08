@@ -31,6 +31,9 @@ Small project created to understand how keyloggers work in order to improve dete
 
 **Challenge 3:** 📺 [Chouf tv](https://medium.com/@ThEsPhYnX/akasec-odyssey-finals-2025-chouftv-writeup-658d05a814d4)
 
+### Belguim lab writeup (INPT-CTF QUALIFICATION)
+🇧🇪 [Belguim Lab](https://github.com/NotSphyynxx/Labs-Writeups/blob/main/Belgium-lab.md)
+
 ---
 
 ## 👤 Profile
